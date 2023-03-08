@@ -42,7 +42,6 @@ let d_expenses = [
 
 ];
 
-
 export default function App() {
   
 
